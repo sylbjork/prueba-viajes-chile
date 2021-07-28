@@ -1,0 +1,38 @@
+
+ .colornav{
+  background: transparent;
+  position: fixed;
+  z-index: 2;  
+  width: 100%;
+  }
+
+  #quienes-somos {
+    background-color: #000000;
+ 
+  }
+
+  /*footer*/
+
+  .celeste {
+  background-color: #269daa;
+}
+
+.container-body {
+    background-color: #000000;
+  padding: auto;
+
+}
+
+
+
+  .card {
+    min-height: 200px;
+    }
+    .imgfijo{
+    height: 170px;;
+    }
+    .lista-cards div.card {
+    height: 400px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+    }
